@@ -58,7 +58,7 @@ git clone https://github.com/ArthurPeruchi/Auth-API
 Entre na pasta do projeto:
 
 ```bash
-cd "Authentication API"
+cd "Auth-API"
 ```
 
 ### 2. Criar e ativar o ambiente virtual
